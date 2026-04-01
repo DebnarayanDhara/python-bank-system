@@ -12,5 +12,9 @@ A simple banking system built using Python that allows users to log in, check ba
 ## How to Run
 1. Install Python
 2. Run the file:
+
+## Project Type
+Beginner Level Python Project (CLI Based)
+
 ## Author
 Debnarayan Dhara
